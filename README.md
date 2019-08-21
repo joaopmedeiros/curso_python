@@ -8,6 +8,8 @@ Requisitos de ambiente:
 * Visual Studio Code (https://code.visualstudio.com/)
 * Python (https://www.python.org/)
 
+* Saída de emergência para acompanhar primeira aula: https://repl.it/languages/Python3
+
 **Seja bem-vindo e boa sorte!**
 
 ![Alt Text](https://media.giphy.com/media/bXBU98jCBvMNa/giphy.gif)
