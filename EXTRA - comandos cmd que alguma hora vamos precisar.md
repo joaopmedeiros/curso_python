@@ -8,7 +8,7 @@ C:\Users\joao.cecilio\Documents>
 ```
 Se quisermos voltar um diretório usamos cd .. :
 ``` console
-C:\Users\joao.cecilio\Documents>
+C:\Users\joao.cecilio\Documents>cd ..
 C:\Users\joao.cecilio>
 ```
 
